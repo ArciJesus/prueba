@@ -1,0 +1,21 @@
+.special {
+    color: red;
+}
+
+
+p {
+    color: blue
+}
+
+body {
+    background-color: pink;
+  }
+  
+  span {
+    border: 1px solid black;
+    background-color: lime;
+    border-bottom: dotted;
+    font-style: italic;
+  }
+
+  
